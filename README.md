@@ -18,7 +18,7 @@ My name is McCauley and I'm currently a Term 2 Student Application Development &
 The technologies I'm working/worked with are:
 - Python 🐍
 - SQL 
-- HTML/CSS 
+- HTML/CSS/JS 
 - Figma
 - Microsoft Office
 
