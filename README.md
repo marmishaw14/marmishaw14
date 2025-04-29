@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-My name is McCauley and I'm currently a Term 3 Student in the Application Development & Delivery program at RRC Polytechnic, and also a Python Developer at All Things Linux.
-Currently I am serving as President of the Bits and Bytes Association at RRC Polytechnic, helping to bridge the gap between industry and students.
-
-I have great interest in the world of blockchain development and all things web design, feel free to reach out to me via my LinkedIn
-if you're interested in connecting!
+My name is McCauley and I'm currently a Term 3 Student in the Application Development & Delivery program at RRC Polytechnic. I'm also a Python Developer at All Things Linux.
+In addition to these, I am also serving as President of the Bits and Bytes Association at RRC Polytechnic, helping to bridge the gap between industry and students.
 
 Bits and Bytes Association: https://bitsandbytesassociation.ca/
 
