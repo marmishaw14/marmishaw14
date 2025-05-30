@@ -1,23 +1,9 @@
-[![McCauley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marmishaw14&show_icons=true&theme=cobalt)](https://github.com/marmishaw14/github-readme-stats)
-
 # Hi there 👨‍💻
+![Anime Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlsdzAyNTQ0ZmxxeHcyY3pqMW5wMmxpNnc5N2tzbjFwenU4bWhqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCTaMi2bSMf9cExRcG/giphy.gif)
 
-<!--
-**marmishaw14/marmishaw14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## About Me
-Application Development and Delivery @ RRC Polytechnic
+Term 4 Application Development and Delivery @ <a href="https://catalogue.rrc.ca/Programs/WPG/Fulltime/ADEVF-DP/Overview">RRC Polytechnic</a>
 
 Python Developer (Systems Team) @ <a href="https://allthingslinux.org">All Things Linux</a>
 
@@ -27,7 +13,13 @@ RRC Polytechnic Head Delegate @ <a href="https://www.linkedin.com/company/cusec/
 
 PSLP Cohort 7 Fellow @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
-LinkedIn: https://www.linkedin.com/in/mccauley-armishaw/
+## Digital Presence
+<a href="https://www.linkedin.com/in/mccauley-armishaw/">LinkedIn</a>
+
+<a href="https://x.com/mccauleycodes">X(formerly Twitter)</a>
+
+<a href="https://www.instagram.com/mccauleycodes">Instagram</a>
+
 ## Tech Stack
 ### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
