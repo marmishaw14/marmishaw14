@@ -3,7 +3,7 @@
 
 
 ## About Me
-Term 4 Application Development and Delivery @ <a href="https://catalogue.rrc.ca/Programs/WPG/Fulltime/ADEVF-DP/Overview">RRC Polytechnic</a>
+Application Development and Delivery @ <a href="https://catalogue.rrc.ca/Programs/WPG/Fulltime/ADEVF-DP/Overview">RRC Polytechnic</a>
 
 Python Developer (Systems Team) @ <a href="https://allthingslinux.org">All Things Linux</a>
 
