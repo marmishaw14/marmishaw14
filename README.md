@@ -15,6 +15,8 @@ RRC Polytechnic Head Delegate and Sponsorships Team @ <a href="https://www.linke
 
 PSLP Cohort 7 Fellow @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
+Incoming Scholar @ <a href="https://www.cansbridgescholars.com/">Cansbridge Scholars</a>
+
 ## Digital Presence
 <a href="https://www.linkedin.com/in/mccauley-armishaw/">LinkedIn</a>
 
