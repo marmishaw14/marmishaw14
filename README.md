@@ -9,7 +9,7 @@ Application Development and Delivery @ <a href="https://catalogue.rrc.ca/Program
 
 Python Developer (Systems Team) @ <a href="https://allthingslinux.org">All Things Linux</a>
 
-President @ <a href="https://bitsandbytesassociation.ca">Bits and Bytes Association</a>
+prev. President @ <a href="https://bitsandbytesassociation.ca">Bits and Bytes Association</a>
 
 RRC Polytechnic Head Delegate and Director of Sponsorships @ <a href="https://www.linkedin.com/company/cusec/posts/?feedView=all">CUSEC 2026</a>
 
