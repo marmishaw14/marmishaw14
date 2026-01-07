@@ -20,9 +20,11 @@ Scholar, Meraki Cohort 💫 @ <a href="https://www.cansbridgescholars.com/">Cans
 ## Digital Presence
 <a href="https://www.linkedin.com/in/mccauley-armishaw/">LinkedIn</a>
 
-<a href="https://x.com/mccauleycodes">X(formerly Twitter)</a>
+<a href="https://x.com/mccauleycodes">X</a>
 
 <a href="https://www.instagram.com/mccauleycodes">Instagram</a>
+
+<a href="https://www.substack.com/@mccauleyarmishaw">Substack</a>
 
 ## Tech Stack
 
