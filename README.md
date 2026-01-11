@@ -11,7 +11,7 @@ Software Developer @ <a href="https://allthingslinux.org">All Things Linux</a>
 
 Treasurer, prev. President and Vice-President @ <a href="https://bitsandbytesassociation.ca">Bits and Bytes Association</a>
 
-RRC Polytechnic Head Delegate and Director of Sponsorships @ <a href="https://2026.cusec.net/">CUSEC 2026</a>
+prev. Director of Sponsorships @ <a href="https://2026.cusec.net/">CUSEC 2026</a>
 
 PSLP Cohort 7 Fellow @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
