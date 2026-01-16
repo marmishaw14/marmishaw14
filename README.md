@@ -9,7 +9,7 @@ Application Development and Delivery @ <a href="https://catalogue.rrc.ca/Program
 
 Software Developer @ <a href="https://allthingslinux.org">All Things Linux</a>
 
-Treasurer, prev. President and Vice-President @ <a href="https://bitsandbytesassociation.ca">Bits and Bytes Association</a>
+Treasurer and Web Developer, prev. President and Vice-President @ <a href="https://bitsandbytesassociation.ca">Bits and Bytes Association</a>
 
 prev. Director of Sponsorships @ <a href="https://2026.cusec.net/">CUSEC 2026</a>
 
