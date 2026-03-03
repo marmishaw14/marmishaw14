@@ -8,6 +8,7 @@ PSLP Cohort 7 Fellow @ <a href="https://umanitoba.ca/asper/programs-of-study/pre
 
 Scholar, Meraki Cohort 💫 @ <a href="https://www.cansbridgescholars.com/">Cansbridge Scholars</a>
 
+Venture Scout @ <a href="https://althra.ca/">Althra</a>
 ## Digital Presence
 <a href="https://www.linkedin.com/in/mccauley-armishaw/">LinkedIn</a>
 
