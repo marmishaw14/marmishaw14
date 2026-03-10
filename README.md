@@ -1,4 +1,4 @@
-## About Me
+## About Me 🧠
 
 Learning how to work with AI agents, data analysis/ML, and becoming a solid full stack developer.
 
