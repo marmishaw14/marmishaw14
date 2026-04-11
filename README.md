@@ -4,7 +4,7 @@ Learning how to work with AI agents, data analysis/ML, and becoming a solid full
 
 Seeking Summer & Fall 2026 SWE Internships
 
-PSLP Cohort 7 Fellow @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
+PSLP Cohort 7 Fellow Alum @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
 Scholar, Meraki Cohort 💫 @ <a href="https://www.cansbridgescholars.com/">Cansbridge Scholars</a>
 
