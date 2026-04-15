@@ -2,7 +2,9 @@
 
 Learning how to work with AI agents, data analysis/ML, and becoming a solid full stack developer. I'm also exploring full-stack observability and enhancing my homelab abilities!
 
-Seeking Summer & Fall 2026 SWE Internships
+Seeking Fall 2026 SWE Internships
+
+Incoming IT Business Analyst Summer Student @ MBLL
 
 PSLP Cohort 7 Fellow Alum @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
