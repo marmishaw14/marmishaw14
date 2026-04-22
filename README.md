@@ -1,6 +1,8 @@
 ## About Me 🧠
 
-Learning how to work with AI agents, data analysis/ML, and becoming a solid full stack developer. I'm also exploring full-stack observability and enhancing my homelab abilities!
+Learning how to work with AI agents, data analysis/ML, and becoming a solid full stack developer.
+
+I'm also exploring full-stack observability and gaining more experience with DevOps and homelabbing.
 
 Seeking Fall 2026 SWE Internships
 
