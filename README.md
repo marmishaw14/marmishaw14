@@ -4,7 +4,7 @@ Learning how to work with AI agents, data analysis/ML, and becoming a solid full
 
 I'm also exploring full-stack observability and gaining more experience with DevOps and homelabbing.
 
-Seeking Fall 2026 SWE Internships
+Seeking Fall 2026 Internship/Winter 2027 Co-op for SWE, Data Engineering, DevOps, etc.
 
 Incoming IT Business Analyst Summer Student @ MBLL
 
