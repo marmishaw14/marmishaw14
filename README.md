@@ -1,12 +1,12 @@
 ## About Me 🧠
 
-Learning how to work with AI agents, data analysis/ML, and becoming a solid full stack developer.
+Learning how to work with AI agents, robotics, data analysis/ML, and becoming a solid full stack developer.
 
 I'm also exploring full-stack observability and gaining more experience with DevOps and homelabbing.
 
 Seeking Fall 2026 Internship/Winter 2027 Co-op for SWE, Data Engineering, DevOps, etc.
 
-Incoming IT Business Analyst Summer Student @ MBLL
+IT Business Analyst Summer Student @ MBLL
 
 PSLP Cohort 7 Fellow Alum @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
