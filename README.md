@@ -6,9 +6,9 @@ I'm also exploring full-stack observability and gaining more experience with Dev
 
 Seeking Fall 2026 Internship/Winter 2027 Co-op for SWE, Data Engineering, DevOps, etc.
 
-IT Business Analyst Summer Student @ MBLL
+IT Business Analyst Summer Student @ Manitoba Liquor & Lotteries Corporation
 
-PSLP Cohort 7 Fellow Alum @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
+PSLP Fellowship Cohort 7 Alum @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
 
 Scholar, Meraki Cohort 💫 @ <a href="https://www.cansbridgescholars.com/">Cansbridge Scholars</a>
 
