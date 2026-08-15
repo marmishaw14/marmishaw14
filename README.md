@@ -8,11 +8,6 @@ Seeking Fall 2026 Internship/Winter 2027 Co-op for SWE, Data Engineering, DevOps
 
 prev. IT Business Analyst Summer Student @ Manitoba Liquor & Lotteries Corporation
 
-PSLP Fellowship Cohort 7 Alum @ <a href="https://umanitoba.ca/asper/programs-of-study/presidents-student-leadership-program">President's Student Leadership Program</a>
-
-Scholar, Meraki Cohort 💫 @ <a href="https://www.cansbridgescholars.com/">Cansbridge Scholars</a>
-
-Venture Scout @ <a href="https://althra.ca/">Althra</a>
 ## Digital Presence
 <a href="https://www.linkedin.com/in/mccauley-armishaw/">LinkedIn</a>
 
