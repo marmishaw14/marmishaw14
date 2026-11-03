@@ -4,7 +4,7 @@ Learning how to work with AI agents, robotics, data analysis/ML, and becoming a 
 
 I'm also exploring full-stack observability and gaining more experience with DevOps and homelabbing.
 
-Seeking Fall 2026 Internship/Winter 2027 Co-op for SWE, Data Engineering, DevOps, etc.
+Seeking Winter 2027 Co-op for SWE, Data Engineering, DevOps, etc.
 
 prev. IT Business Analyst Summer Student @ Manitoba Liquor & Lotteries Corporation
 
