@@ -4,7 +4,7 @@ Learning how to work with AI agents, robotics, data analysis/ML, and becoming a 
 
 I'm also exploring full-stack observability and gaining more experience with DevOps and homelabbing.
 
-Incoming Software Developer Winter Co-op @ Manitoba Liquor & Lotteries Corporation
+Incoming Software Developer Winter 2027 Co-op @ Manitoba Liquor & Lotteries Corporation
 
 prev. IT Business Analyst Summer Student @ Manitoba Liquor & Lotteries Corporation
 
